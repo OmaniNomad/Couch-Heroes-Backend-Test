@@ -67,6 +67,15 @@ When updating the user's score, you must copy over the user's object ID created 
     "typescript": "^4.9.4"
 }
 ```
+
+-----------------------
+# Potential Improvements:
+-----------------------
+- add pino/winston for logging and dayjs as well just to make it easier to work with dates/timestamps
+- Testing with Jest
+- Build a simple user interface using React.js
+- Add authentication using Google OAuth or NextAuth
+
 -----------------------
 # Contact Information:
 -----------------------
