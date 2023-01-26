@@ -1,3 +1,8 @@
+REST API with Node.js, Mongoose, and Typescript
+
+
+Note: This is the postman collection used to test the API. I've included the access key: https://api.postman.com/collections/25339522-1dfb27d2-daaf-47ee-ac1f-5bd9229ba61a?access_key=PMAT-01GQQ7DTEWJ2SKM2HESBJVN5S2
+
 -----------------------
 # Overview and Endpoints:
 -----------------------
